@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 export default function Searchbar() {
   return (
     <div className="hidden lg:block w-96 p-4">
@@ -22,10 +24,12 @@ export default function Searchbar() {
         <h2 className="font-bold text-xl mb-4">Who to follow</h2>
         <div className="flex items-center justify-between mb-4">
           <div className="flex items-center">
-            <img
+            <Image
               src="https://via.placeholder.com/40"
               alt="Profile"
               className="w-10 h-10 rounded-full mr-3"
+              width={256}
+              height={256}
             />
             <div>
               <p className="font-bold">User Name</p>
