@@ -1,3 +1,3 @@
-## Critter [*Twitter Clone*]
+## Critter
 
 ### 🚧 WIP
