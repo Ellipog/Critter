@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Searchbar() {
   return (
-    <div className="hidden lg:block w-96 p-4">
+    <div className="hidden lg:block w-96 p-4 border-l border-gray-700">
       <div className="relative">
         <input
           type="text"
