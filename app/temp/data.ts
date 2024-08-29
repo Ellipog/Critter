@@ -81,7 +81,7 @@ export const creets: Creet[] = [
     info: [4567, 8901, 2345, 6789],
   },
   {
-    id: 56789012345,
+    id: 56789072345,
     displayName: "Makrellfantomen",
     userName: "mackerel_phantom",
     text: "Makrell i tomat - en norsk klassiker!",

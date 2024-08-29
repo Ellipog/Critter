@@ -1,5 +1,5 @@
 /* eslint-disable jsx-a11y/alt-text */
-import Creet from "@/app/components/ui/creet";
+import { Creet } from "@/app/components/ui/creet";
 import { Image, ImagePlay } from "lucide-react";
 import { creets } from "../temp/data";
 
